@@ -1,0 +1,40 @@
+Evaluating Model Performance with Custom Thresholds for the Top Features in stress events
+Quantile: 0.9
+Model Accuracy: 0.85
+Quantile: 0.8
+Model Accuracy: 0.85
+Quantile: 0.7
+Model Accuracy: 0.81
+Quantile: 0.6
+Model Accuracy: 0.81
+Quantile: 0.5
+Model Accuracy: 0.84
+Quantile: 0.4
+Model Accuracy: 0.84
+Quantile: 0.3
+Model Accuracy: 0.56
+Quantile: 0.2
+Model Accuracy: 0.68
+Quantile: 0.1
+Model Accuracy: 0.53
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+Evaluating Model Performance with Custom Thresholds for the Top Features in non-stress events
+Quantile: 0.9
+Model Accuracy: 0.38
+Quantile: 0.8
+Model Accuracy: 0.72
+Quantile: 0.7
+Model Accuracy: 0.72
+Quantile: 0.6
+Model Accuracy: 0.72
+Quantile: 0.5
+Model Accuracy: 0.69
+Quantile: 0.4
+Model Accuracy: 0.69
+Quantile: 0.3
+Model Accuracy: 0.71
+Quantile: 0.2
+Model Accuracy: 0.97
+Quantile: 0.1
+Model Accuracy: 1.00
