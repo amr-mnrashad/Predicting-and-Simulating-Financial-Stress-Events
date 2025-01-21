@@ -18,20 +18,20 @@ The project also incorporates simulations and data preparation to support robust
 **Project Structure**
   
   *Jupyter Notebooks:*
-    -  stress_testing_dataset_preparation.ipynb
-       Purpose: Prepares the dataset for modeling by performing cleaning, feature engineering, and transformations.
-    - stress_testing_classification_model.ipynb
-       Purpose: Builds and evaluates a classification model for identifying stress events.
-    -  stress_testing_monte_carlo_simulation.ipynb
-       Purpose: Applies Monte Carlo simulations to assess the impact of feature variability on model predictions.
+  -  stress_testing_dataset_preparation.ipynb
+     Purpose: Prepares the dataset for modeling by performing cleaning, feature engineering, and transformations.
+  - stress_testing_classification_model.ipynb
+     Purpose: Builds and evaluates a classification model for identifying stress events.
+  -  stress_testing_monte_carlo_simulation.ipynb
+     Purpose: Applies Monte Carlo simulations to assess the impact of feature variability on model predictions.
   
   *Dataset:*
-    - data_ready_for_model.csv: Contains the processed dataset used for training and testing the classification model. Includes financial features, derived indicators, and stress labels.
+  - data_ready_for_model.csv: Contains the processed dataset used for training and testing the classification model. Includes financial features, derived indicators, and stress labels.
   
   *Plots and Scripts*
-    - Plots:
-      Visualizations created in the notebooks, such as feature distributions, confusion matrices, ROC curves, and probability distributions.
-      These plots provide insights into model performance and feature behavior.
-    - Helper Functions:
-      Common functions used across notebooks, such as data cleaning, transformation utilities, and model evaluation metrics.
-      Functions are saved as Python scripts for reusability.
+  - Plots:
+    Visualizations created in the notebooks, such as feature distributions, confusion matrices, ROC curves, and probability distributions.
+    These plots provide insights into model performance and feature behavior.
+  - Helper Functions:
+    Common functions used across notebooks, such as data cleaning, transformation utilities, and model evaluation metrics.
+    Functions are saved as Python scripts for reusability.
