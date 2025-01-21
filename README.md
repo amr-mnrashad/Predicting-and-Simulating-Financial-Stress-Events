@@ -1,4 +1,4 @@
-****Overview********
+****Overview****
 
 This repository contains a project focused on stress testing in financial institutions. 
 The objective is to build, evaluate, and analyze a classification model capable of identifying stress events based on key financial indicators. 
