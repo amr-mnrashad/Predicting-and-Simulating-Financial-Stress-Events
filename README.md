@@ -2,7 +2,7 @@
 
 This repository contains a project focused on stress testing in financial institutions. 
 
-This initiative explores how financial institutions can leverage their internal financial indicators to perform effective stress testing. Using historical economic and financial indicators collected from FRED, spanning from 1990-01 to 2024-07, I developed a classification model and incorporated Monte Carlo simulations to robustly identify and simulate stress events under various scenarios. The project highlights the potential for institutions to enhance preparedness and decision-making using their own data-driven insights.
+This initiative explores how financial institutions can leverage internal financial indicators for effective stress testing. Using historical U.S. economic and financial data from FRED (January 1990 to July 2024), I developed a classification model designed to predict systemic stress events based on historical trends and patterns. Additionally, I incorporated Monte Carlo simulations to evaluate outcomes under various scenarios. This project demonstrates how financial institutions can enhance preparedness and decision-making through data-driven insights.
 
 **The repository includes:**
   - Jupyter Notebooks for data preparation, model building, and simulations.
