@@ -11,7 +11,7 @@ This initiative explores how financial institutions can leverage internal financ
 
 **Aim of the Project**
  - The project aims to:
-    1. Predict stress events using financial indicators derived from historical data.
+    1. Predict systemic stress events using financial indicators derived from historical data.
     2. Utilize Monte Carlo simulations to evaluate model robustness under various scenarios.
     3. Provide actionable insights through well-documented workflows for data preparation, feature engineering, and model evaluation.
   
